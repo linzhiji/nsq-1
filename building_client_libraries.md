@@ -310,8 +310,8 @@ NSQ 支持加密和/或压缩 特性协商，通过`IDENTIFY` 命令. TLS 用来
 
  * `Producer` -和用户打交道的 API，处理发布。
 
-我们很高兴能帮助任何对编写客户端库有兴趣的人。我们希望大家能加入到社区，扩展目前已经存在的库。社区已经开源[many 客户端
-libraries][clinet_libraries]。
+我们很高兴能帮助任何对编写客户端库有兴趣的人。我们希望大家能加入到社区，扩展目前已经存在的库。社区已经开源[很多客户端
+库][clinet_libraries]。
 
 [go-nsq]: https://github.com/bitly/go-nsq
 [pynsq]: https://github.com/bitly/pynsq
